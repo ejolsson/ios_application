@@ -2,10 +2,9 @@
 
 ## Introduction
 
-An innovative bootcamp project using SwiftUI, Combine, View Inspector, 
-JWTDecode, multiple API endpoint connections (with Auth Endpoint) and 
-SOLID/clean principles.
-Packages View Inspector, JWTDecode.
+An innovative bootcamp project using SwiftUI, Combine, View Inspector, JWTDecode, multiple API endpoint connections (with Auth Endpoint) and SOLID/clean principles.
+Packages View Inspector, JWTDecode. Project contributors include: Alberto Junquera Ramirez, Camila López, Enrique Poyato Ortiz, Eric Olsson, and Marta Maquedano.
+
 
 ## Features
 
